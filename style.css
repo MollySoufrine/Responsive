@@ -3,26 +3,25 @@ ul{
     display: inline;
 }
 li{
-    float:right;
     padding:.94rem ;
     font-size: 1.7vw;
 }
 .name{
-    font-size: ;
-    clear: both;
-    padding-left: 20%;
+    font-size: 3.5vw;
+    text-align: center;
     font-style: italic;
     font-family: Georgia, Verdana;
     color: white;
 }
 .container h2{
-    font-size: 3vw;
+    font-size: 2.7vw;
     padding-left: 1em;
     font-family: Georgia, Verdana;
     color: black;
+    box-shadow: 8px 0px 10px grey;
+    margin: 1.49vw;
 }
 
-.container,
 .container{
     padding: 10px;
     margin: auto;
@@ -34,7 +33,7 @@ li{
     margin: auto;
 }
 p{
-    font-size: 1.7vw;
+    font-size: 1.3vw;
     font-family: Georgia;
 }
 
