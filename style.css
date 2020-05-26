@@ -23,9 +23,9 @@ li{
 }
 
 .container{
+    padding-left: 20px;
     padding: 10px;
     margin: auto;
-    
 }
 .container img{
     padding-bottom: 1.87rem;
@@ -34,11 +34,9 @@ li{
     margin: auto;
 }
 p{
-    font-size: 1.3vw;
+    font-size: 1.6vw;
     font-family: Georgia;
 }
-.rowContact{
-    display: flex;
-}
+
 
 
