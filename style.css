@@ -23,6 +23,7 @@ li{
 }
 
 .container{
+    display:flex:
     padding: 10px;
     margin: auto;
 }
@@ -36,4 +37,6 @@ p{
     font-size: 1.3vw;
     font-family: Georgia;
 }
+
+
 
