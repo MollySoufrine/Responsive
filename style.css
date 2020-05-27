@@ -1,6 +1,5 @@
 ul{
     list-style: none;
-    display: inline;
 }
 li{
     padding:.94rem ;
@@ -15,7 +14,6 @@ li{
 }
 .container h2{
     font-size: 2.7vw;
-    padding-left: 1em;
     font-family: Georgia, Verdana;
     color: black;
     box-shadow: 8px 0px 10px grey;
@@ -24,9 +22,7 @@ li{
 
 .container{
     box-sizing: border-box;
-    padding-left: 20px;
-    padding: 10px;
-    margin: auto;
+    padding: 10px;  
 }
 .container img{
     padding-bottom: 1.87rem;
