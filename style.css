@@ -23,6 +23,7 @@ li{
 }
 
 .container{
+    box-sizing: border-box;
     padding-left: 20px;
     padding: 10px;
     margin: auto;
@@ -34,6 +35,7 @@ li{
     margin: auto;
 }
 p{
+    box-sizing: border-box;
     font-size: 1.6vw;
     font-family: Georgia;
 }
