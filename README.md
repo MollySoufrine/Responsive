@@ -8,6 +8,7 @@ There are many things to read regarding responsive web designs and boostrap is s
 
 While designing the portfolio page I found that since bootstrap has so much to offer it can be easy to get carried away trying to do fancy things. I also found it's very easy while copying and pasting, to leave out closing tags. I googled how to make the opening tags (especially the divs) to match thier closing tags with control, option, f, for my mac. This helped tremendously to solve problems.
 
-My biggest issue was having content "slide" to the left of the page when the screen size changed. It looked like content was on the edge of the screen instead of having a margin.
+My biggest issue was having content "slide" to the left of the page when the screen size changed. It looked like content was on the edge of the screen instead of having a margin. I still had issues with the right side making a small gap when the screen size shrunk. It was noticeable by the header/nav bar where the color is different. I tried removing margins and paddding as well as changing displays and boxes but with no luck the gap was still present.
+If I could gain some insight as to why or what is causing this I would appreciate that.
 
 I used VS code to organize these files as well as boostrap css and JS to add style and animation. I used dev tools in chrome developer to find a lot of my bugs by referencing what was working vs not working with each page. 
